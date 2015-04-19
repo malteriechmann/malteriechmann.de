@@ -39,6 +39,14 @@ main {
 	padding-bottom: 2rem;
 }
 
+article {
+	padding-bottom: 2rem;
+}
+
+article:last-child {
+	padding-bottom: 0;
+}
+
 h2 {
 	font-size: 0.5rem;
 	font-weight: normal;
