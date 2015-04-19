@@ -7,7 +7,7 @@
 html {
 	font-size: 100%;
 	background: #ffffff;
-	color: #bbbbbb;
+	color: #333333;
 	font-family: helvetica, arial, sans-serif;
 }
 
@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	line-height: 1.5;
+	line-height: 1.2;
 	text-transform: uppercase;
 }
 
@@ -59,7 +59,7 @@ ul {
 
 a {
 	text-decoration: none;
-	color: #bbbbbb;
+	color: #eeeeee;
 	transition: color 250ms;
 }
 
@@ -78,6 +78,7 @@ footer {
 
 .footer-link {
 	font-size: 0.5rem;
+	color: #333333;
 }
 
 .footer-link:hover {
