@@ -1,0 +1,16 @@
+
+/* Main StyleSheets (CSS)
+   ========================================================================== */
+
+html {
+	font-size: 100%;
+	background: #ffffff;
+	color: #000000;
+	font-family: helvetica, arial, sans-serif;
+}
+	
+body {
+	margin: 0 auto;
+	width: 90%;
+	line-height: 1.5;
+}
