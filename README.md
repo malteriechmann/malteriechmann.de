@@ -1,2 +1,2 @@
 # malteriechmann.de
-my personal website
+My personal website.
