@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/malteriechmann
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://malteriechmann.de
+  * I am malteriechmann (https://keybase.io/malteriechmann) on keybase.
+  * I have a public key with fingerprint 1B87 D2C7 D35F 7174 4B86  ACD8 B4CB C094 716E BB06
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010179b57f75e1ca94a696fe397fe21c2735d09f00cc71e7490abba16d717ee92d640a",
+            "fingerprint": "1b87d2c7d35f71744b86acd8b4cbc094716ebb06",
+            "host": "keybase.io",
+            "key_id": "b4cbc094716ebb06",
+            "kid": "010179b57f75e1ca94a696fe397fe21c2735d09f00cc71e7490abba16d717ee92d640a",
+            "uid": "15205cffe32c7a6f94b3e89443658d19",
+            "username": "malteriechmann"
+        },
+        "service": {
+            "hostname": "malteriechmann.de",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1462698593,
+    "expire_in": 157680000,
+    "prev": "b8ede4d26c1555556b5801df0b8f6916f6e8d0129e8971e851e84c0603d21fad",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUltIVEEY3q20WrpY0IWKqGMXKdMz5zLnzJZYpGVKEFHZhdzmdvSknl13j6sl
+QpBiIVGYRUYWFdFLNzCKzC4S1oPpRiBlF4LKQqKiC/VQD82RevOxgWGY+b/vm+//
++A+NH+kL+K92322ucG4m+7sHia8wc0RLjUTCbJcUrJFK+dDByxiPuaFSm0lBSQYy
+MBDRDcvQOaAYaRgiaHEVGRZXAFUMVWcysmSZUgNwQ0MyJgQDyAxgcI4UBjUZS+mS
+ZTvFPBqJ2o4rZAExDaZQg6m6JYCaRkyIKTOJRgmVkWYAyAmRoSCWhGMeQ5gjOMYz
+7LB4E5fQkL1h8P/Zd+WQHNAVWaeW4AvTGFpIIyo3kaapUDcZQB4wxqMOLucCXY7L
+XB61OS0px44j1aZLoha3Kffi9foZFpfBuJCJRMNumIbLRLnEdSNBj+3uinjwKk5C
+f4VCxHaYSFQQ4jwas8OOFAQCSV3bUwYaVCAydaSmS7w6Ykd5yPYQugFNWSzvGx4n
+XoAmZ1xjCqRA9xYkuikDZsnEtCAC0ILcZDJQkOhW5GTqYmtUhrLKFGBhJnm9VThh
+KYiET1wsJGN2sYPdyiiXagP7/bNG+fwBX3LSCG/WfIGxKf8GsLVsjG8vHr02gY7W
+FLfNzV85XskuudTWWtR4oHHrwMfT6vnOJRPcC1MeNS888jY50ZvTXre95e2kl+n5
+7y9Ptm6Ne/U9UVjXVBBPHehKe7Lyofm4qd+VVo3dtLkh+/CDeyns6yCY+mt5XtXi
+jT21z1YHv2d/U/s70gbwxfmPcIM65Vj35MCOs+s7s3pvd03L7NnyYdGiGafUZbPf
+vSx907XueN99uq2pr6jjU9F048v1Tv+2zdVLan6unfGA7a5q2vBiwZmsMfv0z32v
+Z87LqO/Py87b2T94ECTdOVC64kbOzWv18x+27+m+clI5vj7R+/tcz5qcibl5mR3G
+nNSnzbknpv54vvQLjRfMGfkH
+=X8Gj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/malteriechmann
+
+==================================================================
