@@ -1,3 +1,15 @@
+### Begin: Force HTTPS ###
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+
+	RewriteCond %{HTTP_HOST} www.malteriechmann.de$ [NC,OR]
+	RewriteCond %{HTTP_HOST} malteriechmann.de$ [NC]
+	RewriteCond %{SERVER_PORT} !^443$
+	RewriteRule (.*)  https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+</IfModule>
+### End: Force HTTPS ###
+
+
 ### Begin: Cross-origin access to web fonts ###
 <IfModule mod_headers.c>
 	<FilesMatch "\.(eot|otf|tt[cf]|woff2?)$">

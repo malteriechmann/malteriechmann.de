@@ -4,7 +4,7 @@ https://keybase.io/malteriechmann
 
 I hereby claim:
 
-  * I am an admin of http://malteriechmann.de
+  * I am an admin of https://malteriechmann.de
   * I am malteriechmann (https://keybase.io/malteriechmann) on keybase.
   * I have a public key with fingerprint 1B87 D2C7 D35F 7174 4B86  ACD8 B4CB C094 716E BB06
 
@@ -23,7 +23,7 @@ To do so, I am signing this object:
         },
         "service": {
             "hostname": "malteriechmann.de",
-            "protocol": "http:"
+            "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
