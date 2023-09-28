@@ -105,3 +105,7 @@
     </FilesMatch>
 </IfModule>
 ### End: X-UA-Compatible
+
+### Begin: Redirect denied files and folders
+RedirectMatch 404 /\.git
+### End: Redirect denied files and folders
